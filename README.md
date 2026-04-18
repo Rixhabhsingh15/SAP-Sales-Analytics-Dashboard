@@ -36,3 +36,32 @@ Customer → Sales Order → Delivery → Billing → Payment
 ---
 
 ## 🔹 Project Structure
+SAP-Sales-Analytics-Dashboard/
+│
+├── Sales_Dashboard.pbix
+├── sales_data.xlsx
+├── documentation.pdf
+├── screenshots/
+│ ├── dashboard.png
+│ ├── dataset.png
+## 🔹 SAP Implementation Note
+Due to limited access to SAP systems, this project uses simulated data while applying SAP concepts. The dashboard represents analytics similar to SAP Analytics Cloud (SAC).
+
+---
+
+## 🔹 Future Improvements
+- Integration with SAP S/4HANA live data  
+- Use of SAP Analytics Cloud (SAC)  
+- Advanced predictive analytics  
+
+---
+
+## 🔹 Author
+**Rishabh Raj**  
+Roll No: 2330329  
+Course: IS30044 – SAP Data / Analytics Engineer  
+
+---
+
+## 🔹 Note
+This is an individual academic project created as part of the Capstone Project submission.
