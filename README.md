@@ -34,16 +34,6 @@ Customer → Sales Order → Delivery → Billing → Payment
 - SAP Concepts (S/4HANA, SD, O2C)  
 
 ---
-
-## 🔹 Project Structure
-SAP-Sales-Analytics-Dashboard/
-│
-├── Sales_Dashboard.pbix
-├── sales_data.xlsx
-├── documentation.pdf
-├── screenshots/
-│ ├── dashboard.png
-│ ├── dataset.png
 ## 🔹 SAP Implementation Note
 Due to limited access to SAP systems, this project uses simulated data while applying SAP concepts. The dashboard represents analytics similar to SAP Analytics Cloud (SAC).
 
